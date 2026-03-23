@@ -1,0 +1,15 @@
+# Configuration
+.env
+
+# Données récoltées (tes fichiers texte)
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environnement Codespaces
+.devcontainer/
